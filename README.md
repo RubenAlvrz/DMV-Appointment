@@ -1,13 +1,3 @@
-# Rig Analytics Team Code Challenges
-
-The Rig Analytics code challenges provide an opportunity to demonstrate proficiency in the problem solving skills we expect you to use at NOV.
-
-## Instructions
-
-* You will receive a prompt and associated data set.
-* Create a new git repository with your solution.
-* Submit a read access link to the hiring manager for the position.
-
 ## Expectations
 
 * Include a `README` with:
