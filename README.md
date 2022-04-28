@@ -5,17 +5,22 @@
 
 * Include a `README` with:
   * Instructions to run the code and install any necessary dependencies.
-    ##:pip install python
+    
+    :pip install python
+    
+    
     :python libraries 
        json
        itertools
        seaborn
   
   * Description of the problem and solution.
+    
     Problem: We need to process all customers in an efficient process so the tellers can go home early.
     Solution: Match the teller with customer type so we can use the multiplier to reduce wait time for the customer. Less wait time equals happy customer.
 
   * Reasoning behind your technical choices.
+    
     We can only work with the data thats available and given, but we can manipulate the data to do different
     technical choices.
 
