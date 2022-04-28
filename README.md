@@ -17,6 +17,7 @@
   * Description of the problem and solution.
     
     Problem: We need to process all customers in an efficient process so the tellers can go home early.
+    
     Solution: Match the teller with customer type so we can use the multiplier to reduce wait time for the customer. Less wait time equals happy customer.
 
   * Reasoning behind your technical choices.
