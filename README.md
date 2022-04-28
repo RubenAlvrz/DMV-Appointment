@@ -27,7 +27,7 @@
 
   * If there are features you didn't have time to implement or would improve or do differently next time, describe the intended behavior.
 
-    Now the data has been processed and aggregated. We can do diffrent features to imporve the process.
+    Now the data has been processed and aggregated. We can do diffrent features to improve the process.
     For example, we can do anomaly detection to see which tellers have more appointments than other tellers.
     Then we can remove the additional appointments from the outliers to the other tellers that have less appointments and total time.
 
